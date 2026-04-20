@@ -42,6 +42,10 @@
 **🖥️ Open Cloud Shell → Paste → Done!**
 
 ```bash
+export REGION=
+```
+
+```bash
 curl -LO raw.githubusercontent.com/gcpdecode/App-Dev-Storing-Image-and-Video-Files-in-Cloud-Storage---Python/cfa89cec238a723d782a5a3f41149131fc506913/gsp185.sh
 sudo chmod +x gsp185.sh
 ./gsp185.sh
