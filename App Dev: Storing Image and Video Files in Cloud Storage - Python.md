@@ -11,7 +11,8 @@
 
 ### 🌈 Brought to you by **GCP Decode** × **CloudoArc** 🌈
 
-## 🖼️ App Dev: Storing Image & Video Files in Cloud Storage
+## App Dev: Storing Image and Video Files in Cloud Storage - Python 
+### GSP185
 
 <br/>
 
